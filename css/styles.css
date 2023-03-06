@@ -71,7 +71,7 @@ nav.nav {
 }
 
 nav.nav li a {
-    color: blue;
+    color:blue;
     text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ nav.nav li a {
 
 
 .membres img{
-    height: 80 px;
+    height: 80px;
     width: 70px;
     display : flex;
     
